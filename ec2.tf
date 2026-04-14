@@ -4,4 +4,5 @@ resource "aws_instance" "junedec2" {
 
   tags = {
     Name = "HelloWorld"
+    }
 }
